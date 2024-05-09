@@ -58,7 +58,7 @@ exports.send_mail = (req, res, next) => {
     catch (err) {
         return res.json({
             status: false,
-            message: "exception error",
+            message: "server error",
             error: err
         })
     }

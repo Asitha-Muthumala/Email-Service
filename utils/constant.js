@@ -1,5 +1,5 @@
 module.exports = {
-    EMAIL: 'bloomfieldgroupp@gmail.com',
-    EMAIL_SERVICE_PASSWORD: 'yiwa qazu tuwp uanq',
+    EMAIL: 'dsproj24@gmail.com',
+    EMAIL_SERVICE_PASSWORD: 'ddzd ilgc gthb whkf',
     PORT: 5001
 };

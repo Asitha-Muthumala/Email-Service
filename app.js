@@ -8,6 +8,7 @@ app.use(express.json());
 
 app.use("/api/send", mail_route)
 
+// Restrict invalid url's
 app.all("*", (req, res, next) => {
     res.json({
         status: false,
